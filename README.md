@@ -1,4 +1,4 @@
-# 🚀 [Your Project Title Here]
+# 🚀 [TrialGuard AI – Clinical Trial Risk Monitor & Protocol Deviation Detector]
 
 > ⚠️ **Replace everything in `[ ]` brackets with your actual content before submission.**
 
@@ -8,10 +8,10 @@
 
 | Field | Value |
 |---|---|
-| **Team Name** | [Your Team Name] |
+| **Team Name** | [Elite Trojans] |
 | **Track** | [AI / DevOps / Sustainability / Open] |
-| **Team Lead** | [Name] — [email@ibm.com] |
-| **Members** | [Name 1], [Name 2], [Name 3] |
+| **Team Lead** | [Het Barai] — [25dcs007@charusat.edu.in] |
+| **Members** | [Hrutvijsinh Jadeja], [Vatsal Paghadal], [Vishwa Darji] |
 
 ---
 
@@ -19,7 +19,7 @@
 
 > In 2–3 sentences: What problem does your project solve? Who experiences this problem?
 
-[Describe the real-world problem your project addresses. Be specific about who the user is and what pain point they face.]
+[Clinical trials involve thousands of patient visits across multiple sites, making it difficult to detect protocol deviations such as missed visits, incorrect dosing, and prohibited co-medications. These issues can remain undetected until audits, creating compliance, operational, and regulatory risks for clinical trial teams.]
 
 ---
 
@@ -27,15 +27,15 @@
 
 > In 2–3 sentences: What did you build? How does it solve the problem above?
 
-[Describe your solution clearly. Explain the core mechanism — what makes it work.]
+[TrialGuard AI compares patient records with clinical trial protocol requirements to automatically detect and classify protocol deviations. It calculates site-level risk scores, highlights high-risk sites through a monitoring dashboard, and generates CAPA-ready reports with recommended corrective and preventive actions.]
 
 ---
 
 ## ✨ Key Features
 
-- **Feature 1:** [Brief description — e.g., "Real-time anomaly detection using watsonx.ai"]
-- **Feature 2:** [Brief description]
-- **Feature 3:** [Brief description]
+- **Feature 1:** [ Automatic detection of clinical trial protocol deviations]
+- **Feature 2:** [Major, minor, and administrative deviation classification]
+- **Feature 3:** [Site-level risk scoring to identify high-risk clinical trial sites]
 - **Feature 4:** [Optional]
 - **Feature 5:** [Optional]
 
@@ -45,11 +45,11 @@
 
 | Category | Technologies |
 |---|---|
-| **Languages** | [e.g., Python, TypeScript] |
-| **Frameworks** | [e.g., FastAPI, React] |
-| **IBM Technologies** | [e.g., watsonx.ai, IBM Bob, IBM Cloud] |
-| **Databases** | [e.g., PostgreSQL, Redis] |
-| **Other** | [e.g., Docker, GitHub Actions] |
+| **Languages** | [Python,TypeScript] |
+| **Frameworks** | [FastAPI, React] |
+| **IBM Technologies** | [watsonx.ai, IBM Bob, IBM Cloud] |
+| **Databases** | [PostgreSQL, Redis] |
+| **Other** | [Docker, GitHub Actions] |
 
 ---
 
@@ -97,10 +97,10 @@ cp .env.example .env
 
 | Artifact | Link |
 |---|---|
-| 📹 Demo Video | [See demo/demo-video-link.txt](demo/demo-video-link.txt) |
+| 📹 Demo Video | [See demo/demo-video-link.txt](https://drive.google.com/file/d/1FujxhTz9Siy-lhaPQwyhF2s9UNCtCndm/view?usp=drive_link) |
 | 🌐 Live Demo | [See demo/live-demo-url.txt](demo/live-demo-url.txt) |
 | 🖼️ Screenshots | [See demo/screenshots/](demo/screenshots/) |
-| 📊 Presentation | [See presentation/slides.pdf](presentation/) |
+| 📊 Presentation | [See presentation/slides.pdf](/) |
 
 ---
 
@@ -108,14 +108,14 @@ cp .env.example .env
 
 > Be honest — judges appreciate transparency over overclaiming.
 
-- [Limitation 1: e.g., "Authentication is mocked — not production-ready"]
-- [Limitation 2: e.g., "Only tested on Chrome"]
-- [Limitation 3: e.g., "Feature X is scaffolded but not fully implemented"]
+- [Limitation 1:"Authentication is mocked — not production-ready"]
+- [Limitation 2:"Only tested on Chrome"]
+- [Limitation 3:"Feature X is scaffolded but not fully implemented"]
 
 ---
 
 ## 🏅 What We're Most Proud Of
 
-[Tell the judges what part of your submission is strongest and worth paying close attention to.]
+[Our strongest feature is the end-to-end risk monitoring workflow: TrialGuard AI detects protocol deviations, classifies their severity, identifies high-risk sites, and turns the findings into actionable CAPA recommendations.]
 
 ---
