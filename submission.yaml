@@ -66,4 +66,4 @@ artifacts:
   demo_video: "https://github.com/hetbarai2000-netizen/bob-ai-hackathon-Elite-Trojans/blob/main/demo/demo-video-link.txt"   # URL to hosted video (YouTube, Loom, Box)
   live_demo: "demo/live-demo-url.txt"      # URL to deployed demo (optional)
   screenshots: "https://github.com/hetbarai2000-netizen/bob-ai-hackathon-Elite-Trojans/tree/main/demo/screenshots"
-  presentation: ""
+  presentation: "https://github.com/hetbarai2000-netizen/bob-ai-hackathon-Elite-Trojans/blame/main/presentation/Clinical%20Trial%20Risk%20Monitor%20%26%20Protocol%20Deviation%20Detector%20(1)%20(1).pptx"
