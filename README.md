@@ -100,7 +100,7 @@ cp .env.example .env
 | 📹 Demo Video | [See demo/demo-video-link.txt](https://drive.google.com/file/d/1FujxhTz9Siy-lhaPQwyhF2s9UNCtCndm/view?usp=drive_link) |
 | 🌐 Live Demo | [See demo/live-demo-url.txt]() |
 | 🖼️ Screenshots | [See demo/screenshots/](https://github.com/hetbarai2000-netizen/bob-ai-hackathon-Elite-Trojans/tree/main/demo/screenshots) |
-| 📊 Presentation | [See presentation/slides.pdf](/) |
+| 📊 Presentation | [See presentation/slides.pdf](https://github.com/hetbarai2000-netizen/bob-ai-hackathon-Elite-Trojans/blame/main/presentation/Clinical%20Trial%20Risk%20Monitor%20%26%20Protocol%20Deviation%20Detector%20(1)%20(1).pptx) |
 
 ---
 
