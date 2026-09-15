@@ -65,5 +65,5 @@ artifacts:
   architecture_doc: "docs/architecture.md"
   demo_video: "https://github.com/hetbarai2000-netizen/bob-ai-hackathon-Elite-Trojans/blob/main/demo/demo-video-link.txt"   # URL to hosted video (YouTube, Loom, Box)
   live_demo: "demo/live-demo-url.txt"      # URL to deployed demo (optional)
-  screenshots: ""
-  presentation: "presentation/"
+  screenshots: "https://github.com/hetbarai2000-netizen/bob-ai-hackathon-Elite-Trojans/tree/main/demo/screenshots"
+  presentation: ""
