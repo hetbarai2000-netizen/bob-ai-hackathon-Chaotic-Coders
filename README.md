@@ -98,8 +98,8 @@ cp .env.example .env
 | Artifact | Link |
 |---|---|
 | 📹 Demo Video | [See demo/demo-video-link.txt](https://drive.google.com/file/d/1FujxhTz9Siy-lhaPQwyhF2s9UNCtCndm/view?usp=drive_link) |
-| 🌐 Live Demo | [See demo/live-demo-url.txt](demo/live-demo-url.txt) |
-| 🖼️ Screenshots | [See demo/screenshots/](demo/screenshots/) |
+| 🌐 Live Demo | [See demo/live-demo-url.txt]() |
+| 🖼️ Screenshots | [See demo/screenshots/](https://github.com/hetbarai2000-netizen/bob-ai-hackathon-Elite-Trojans/tree/main/demo/screenshots) |
 | 📊 Presentation | [See presentation/slides.pdf](/) |
 
 ---
