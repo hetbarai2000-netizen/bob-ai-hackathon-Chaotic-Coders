@@ -25,11 +25,11 @@ team:
 submission:
   title: "Clinical Trial Risk Monitor & Protocol Deviation Detector"                            # REQUIRED — Project display name, e.g., "SmartOps Dashboard"
 
-  problem_statement:A major clinical trial has 5,000+ patient visits across 200+ sites. Protocol deviations — missed visits, wrong dosing, banned co-medications — go undetected until the FDA audit. A single rejected submission delays drug approval by 6–12 months and costs $50–100M. Risk managers need real-time visibility into which sites are highest risk before problems escalate. >                 # REQUIRED — 1-3 sentences. What problem? Who has it?
+  problem_statement: A major clinical trial has 5,000+ patient visits across 200+ sites. Protocol deviations — missed visits, wrong dosing, banned co-medications — go undetected until the FDA audit. A single rejected submission delays drug approval by 6–12 months and costs $50–100M. Risk managers need real-time visibility into which sites are highest risk before problems escalate. >                 # REQUIRED — 1-3 sentences. What problem? Who has it?
     Replace this text with a concise description of the real-world problem
     your project addresses and who experiences it.
 
-  solution_summary:TrialGuard AI compares patient records with clinical trial protocols to detect and classify deviations, assess site-level risk, and generate CAPA-ready reports with recommended actions. >                  # REQUIRED — 1-3 sentences. What did you build?
+  solution_summary: TrialGuard AI compares patient records with clinical trial protocols to detect and classify deviations, assess site-level risk, and generate CAPA-ready reports with recommended actions. >                  # REQUIRED — 1-3 sentences. What did you build?
     Replace this text with a clear description of your solution
     and how it addresses the problem above.
 
